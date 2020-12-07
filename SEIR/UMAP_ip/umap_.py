@@ -1481,7 +1481,7 @@ class UMAP(BaseEstimator):
             self._sparse_data = False
         # set input distance metric & inverse_transform distance metric
         if callable(self.metric):
-            in_returns_grad = self._check_custom_metric(
+            in_returns_grad = self._check_graph_metric(
                 self.metric, self._metric_kwds, self._raw_data
             )
             if in_returns_grad:
