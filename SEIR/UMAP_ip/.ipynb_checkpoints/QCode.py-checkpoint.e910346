@@ -1,0 +1,8 @@
+/var/spool/torque/mom_priv/jobs/910346.v-qsvr-1.aidevcloud.SC: line 2: import: command not found
+/var/spool/torque/mom_priv/jobs/910346.v-qsvr-1.aidevcloud.SC: line 3: import: command not found
+/var/spool/torque/mom_priv/jobs/910346.v-qsvr-1.aidevcloud.SC: line 4: import: command not found
+/var/spool/torque/mom_priv/jobs/910346.v-qsvr-1.aidevcloud.SC: line 5: import: command not found
+from: can't read /var/mail/sklearn.datasets
+/var/spool/torque/mom_priv/jobs/910346.v-qsvr-1.aidevcloud.SC: line 7: import: command not found
+/var/spool/torque/mom_priv/jobs/910346.v-qsvr-1.aidevcloud.SC: line 8: syntax error near unexpected token `('
+/var/spool/torque/mom_priv/jobs/910346.v-qsvr-1.aidevcloud.SC: line 8: `from seirsplus.models import cluster2.pkl Cluster_Comparison_2.ipynb Cluster Comparison.ipynb Cluster Experiments Cluster_Exp.ipynb constsdv|0.png constsdv|1.png constsdv|2.png constsdv|3.png constsdv|4.png data_ext.pkl data.pkl Degree Distribution Variation.ipynb Exp_Compilation.ipynb final.jpg Final Outputs final.png Folder_img_grid.ipynb graph_100.pkl graph_20.pkl graph_50.pkl Graph_op inputdata_visualgrid ip-grid.ipynb KNN.ipynb KNN_op Location vs BA.ipynb Location vs Non-loc.ipynb Loc_Density_Var (1).ipynb models_updated.py NPI Simulations.ipynb ofiervsumap (1).ipynb Ofir_vs_dist-Copy1.ipynb Ofir_vs_dist.ipynb __pycache__ QCode.py QSub Interaction.ipynb sdvc.jpg seir_experiments.py seir.py temp-plot.html Trial_output Trials1.ipynb Trials2.ipynb Trials3.ipynb Trials.ipynb UMAP_Graph_Create_Single_Cluster.ipynb UMAP_ip2.ipynb UMAP_ip.ipynb umap_.py UMAP_run.py Untitled.ipynb'
